@@ -22,7 +22,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{secrets.GIT_PAT}}
           NODE_AUTH_TOKEN: ${{secrets.GIT_PAT}}
-          
+
   semantic-release:
     runs-on: ubuntu-latest
     needs: publish-gpr:
@@ -36,3 +36,6 @@ jobs:
           node-version: 18
           registry-url: https://npm.pkg.github.com/
       - run: npm ci && npx semantic-release
+        env:
+          GITHUB_TOKEN: ${{secrets.GIT_PAT}}
+          NODE_AUTH_TOKEN: ${{secrets.GIT_PAT}}       
