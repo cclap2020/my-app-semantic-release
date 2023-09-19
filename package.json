@@ -1,6 +1,6 @@
 {
   "name": "@cclap2020/my-app-semantic-release",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -30,7 +30,18 @@
   },
   "release": {
     "branches": [
-      "main"
+      "+([0-9])?(.{+([0-9]),x}).x",
+      "master",
+      "next",
+      "next-major",
+      {
+        "name": "beta",
+        "prerelease": true
+      },
+      {
+        "name": "alpha",
+        "prerelease": true
+      }
     ],
     "debug": "true",
     "plugins": [
