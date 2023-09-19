@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.0...v1.0.1) (2023-09-19)
+
+
+### Bug Fixes
+
+* update dry-run.yml ([a16b180](https://github.com/cclap2020/my-app-semantic-release/commit/a16b1802107cef88bbc5410f7d3a434ea7a9fc33))
+
 # 1.0.0 (2023-09-19)
 
 
