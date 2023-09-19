@@ -20,4 +20,4 @@ jobs:
           registry-url: https://npm.pkg.github.com/
       - run: npm ci && npx semantic-release --dry-run true
         env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          GITHUB_TOKEN: ${{secrets.GIT.PAT}}
