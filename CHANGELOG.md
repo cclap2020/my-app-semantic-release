@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.1...v1.0.2) (2023-09-19)
+
+
+### Bug Fixes
+
+* publish command ([0d8d09c](https://github.com/cclap2020/my-app-semantic-release/commit/0d8d09c040c3108b6d626e2a2d7ef2efcab66486))
+
 ## [1.0.1](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.0...v1.0.1) (2023-09-19)
 
 
