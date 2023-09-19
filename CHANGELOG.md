@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.3...v1.0.4) (2023-09-19)
+
+
+### Bug Fixes
+
+* next branch ([53b734b](https://github.com/cclap2020/my-app-semantic-release/commit/53b734b1066faeeeea78791ffe0aaad3d50994bd))
+
 ## [1.0.3](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.2...v1.0.3) (2023-09-19)
 
 
