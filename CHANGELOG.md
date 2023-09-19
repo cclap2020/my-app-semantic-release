@@ -1,3 +1,11 @@
+## [2.0.1](https://github.com/cclap2020/my-app-semantic-release/compare/v2.0.0...v2.0.1) (2023-09-19)
+
+
+### Bug Fixes
+
+* check for protected ([9793e59](https://github.com/cclap2020/my-app-semantic-release/commit/9793e591d0e9bbfaf96d3e1b533166f8ea6a73ec))
+* update publish.yml ([#5](https://github.com/cclap2020/my-app-semantic-release/issues/5)) ([2b19add](https://github.com/cclap2020/my-app-semantic-release/commit/2b19addfaf31648b156ae91b41ad6ba0fd06bdaf))
+
 ## [2.0.0](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.5...v2.0.0) (2023-09-19)
 
 ### ⚠ BREAKING CHANGES
