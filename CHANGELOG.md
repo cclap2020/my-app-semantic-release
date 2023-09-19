@@ -1,3 +1,14 @@
+## [2.0.0](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.5...v2.0.0) (2023-09-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking change b2 
+
+### Features
+
+* breaking change b2  ([dfa4a6d](https://github.com/cclap2020/my-app-semantic-release/commit/dfa4a6d34035dc1ad7143801c6be817cb1f37efc))
+
 ## [2.0.0-next.1](https://github.com/cclap2020/my-app-semantic-release/compare/v1.1.0-next.2...v2.0.0-next.1) (2023-09-19)
 
 
