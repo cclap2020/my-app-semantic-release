@@ -62,7 +62,8 @@ export default function Home() {
             Learn <span>-&gt;</span>
           </h2>
           <p>
-            Learn about saNext.js in an interactive course with&nbsp;quizzes!
+            Learn about sa12312Next.js in an interactive course
+            with&nbsp;quizzes!
           </p>
         </a>
 
