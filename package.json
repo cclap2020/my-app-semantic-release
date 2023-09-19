@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cclap2020/my-app-semantic-release/tree/main"
+    "url": "https://github.com/cclap2020/my-app-semantic-release"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
