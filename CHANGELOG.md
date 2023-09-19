@@ -1,30 +1,26 @@
 ## [1.0.5](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.4...v1.0.5) (2023-09-19)
 
-
 ### Bug Fixes
 
-* include main ([e7d17a9](https://github.com/cclap2020/my-app-semantic-release/commit/e7d17a98ebd795b93d70483a9149f5523f3ce006))
+- includes main ([e7d17a9](https://github.com/cclap2020/my-app-semantic-release/commit/e7d17a98ebd795b93d70483a9149f5523f3ce006))
 
 ## [1.0.4](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.3...v1.0.4) (2023-09-19)
 
-
 ### Bug Fixes
 
-* next branch ([53b734b](https://github.com/cclap2020/my-app-semantic-release/commit/53b734b1066faeeeea78791ffe0aaad3d50994bd))
+- next branch ([53b734b](https://github.com/cclap2020/my-app-semantic-release/commit/53b734b1066faeeeea78791ffe0aaad3d50994bd))
 
 ## [1.0.3](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.2...v1.0.3) (2023-09-19)
 
-
 ### Bug Fixes
 
-* change order of plugins ([dff4701](https://github.com/cclap2020/my-app-semantic-release/commit/dff4701894c394c15046adb215c7e6700e9cfa29))
+- change order of plugins ([dff4701](https://github.com/cclap2020/my-app-semantic-release/commit/dff4701894c394c15046adb215c7e6700e9cfa29))
 
 ## [1.0.2](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.1...v1.0.2) (2023-09-19)
 
-
 ### Bug Fixes
 
-* incorrect readme ([77f2004](https://github.com/cclap2020/my-app-semantic-release/commit/77f200418796def4af34cef8c3591aa190e51761))
+- incorrect readme ([77f2004](https://github.com/cclap2020/my-app-semantic-release/commit/77f200418796def4af34cef8c3591aa190e51761))
 
 ## [1.0.1](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.0...v1.0.1) (2023-09-19)
 
