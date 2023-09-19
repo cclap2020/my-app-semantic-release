@@ -1,6 +1,6 @@
 {
   "name": "@cclap2020/my-app-semantic-release",
-  "version": "1.0.5",
+  "version": "2.0.0-next.1",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -23,6 +23,8 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^9.0.6",
@@ -50,8 +52,30 @@
     "debug": "true",
     "plugins": [
       "@semantic-release/npm",
-      "@semantic-release/commit-analyzer",
-      "@semantic-release/release-notes-generator",
+      [
+        "@semantic-release/commit-analyzer",
+        {
+          "preset": "conventionalcommits",
+          "releaseRules": [
+            {
+              "type": "*!",
+              "release": "major"
+            }
+          ]
+        }
+      ],
+      [
+        "@semantic-release/release-notes-generator",
+        {
+          "preset": "conventionalcommits",
+          "releaseRules": [
+            {
+              "type": "*!",
+              "release": "major"
+            }
+          ]
+        }
+      ],
       "@semantic-release/changelog",
       [
         "@semantic-release/git",
