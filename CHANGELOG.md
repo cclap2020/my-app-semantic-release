@@ -3,6 +3,15 @@
 
 ### Bug Fixes
 
+* enable publish ([5e30e08](https://github.com/cclap2020/my-app-semantic-release/commit/5e30e08abcd661775ef31e30c9d91066a8025695))
+* update repository url ([7156dd5](https://github.com/cclap2020/my-app-semantic-release/commit/7156dd5a93c05b73e774d0b8aa129ab1f1746d75))
+* use default semantic-relase to publish ([af08a3a](https://github.com/cclap2020/my-app-semantic-release/commit/af08a3a650ebf1ce15a9a92778de3e29567029f2))
+
+## [1.0.1](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.0...v1.0.1) (2023-09-19)
+
+
+### Bug Fixes
+
 * update repository url ([7156dd5](https://github.com/cclap2020/my-app-semantic-release/commit/7156dd5a93c05b73e774d0b8aa129ab1f1746d75))
 * use default semantic-relase to publish ([af08a3a](https://github.com/cclap2020/my-app-semantic-release/commit/af08a3a650ebf1ce15a9a92778de3e29567029f2))
 
