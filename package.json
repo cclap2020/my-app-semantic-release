@@ -16,8 +16,6 @@
     "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
-    "@commitlint/cli": "^17.7.1",
-    "@commitlint/config-conventional": "^17.7.0",
     "eslint": "8.49.0",
     "eslint-config-next": "13.4.19",
     "next": "13.4.19",
@@ -51,19 +49,8 @@
     ],
     "debug": "true",
     "plugins": [
-      "@semantic-release/npm",
-      [
-        "@semantic-release/commit-analyzer",
-        {
-          "preset": "conventionalcommits"
-        }
-      ],
-      [
-        "@semantic-release/release-notes-generator",
-        {
-          "preset": "conventionalcommits"
-        }
-      ],
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
       "@semantic-release/changelog",
       [
         "@semantic-release/git",
