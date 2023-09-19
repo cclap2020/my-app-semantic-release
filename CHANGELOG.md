@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.2...v1.0.3) (2023-09-19)
+
+
+### Bug Fixes
+
+* change order of plugins ([dff4701](https://github.com/cclap2020/my-app-semantic-release/commit/dff4701894c394c15046adb215c7e6700e9cfa29))
+
 ## [1.0.2](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.1...v1.0.2) (2023-09-19)
 
 
