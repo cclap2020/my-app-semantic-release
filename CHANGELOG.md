@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.1...v1.0.2) (2023-09-19)
+
+
+### Bug Fixes
+
+* incorrect readme ([77f2004](https://github.com/cclap2020/my-app-semantic-release/commit/77f200418796def4af34cef8c3591aa190e51761))
+
 ## [1.0.1](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.0...v1.0.1) (2023-09-19)
 
 ### Bug Fixes
