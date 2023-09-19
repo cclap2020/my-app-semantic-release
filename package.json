@@ -8,6 +8,13 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cclap2020/my-app-semantic-release/tree/main"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "dependencies": {
     "eslint": "8.49.0",
     "eslint-config-next": "13.4.19",
@@ -45,7 +52,7 @@
             "compiled/index.js",
             "CHANGELOG.md"
           ],
-          "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+          "message": "chore(release): ${nextRelease.version} \n\n${nextRelease.notes}"
         }
       ],
       "@semantic-release/github"
