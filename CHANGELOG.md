@@ -1,38 +1,34 @@
 ## [2.0.0](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.5...v2.0.0) (2023-09-19)
 
-
 ### ⚠ BREAKING CHANGES
 
-* breaking change b2 
+- breaking change b2
 
 ### Features
 
-* breaking change b2  ([dfa4a6d](https://github.com/cclap2020/my-app-semantic-release/commit/dfa4a6d34035dc1ad7143801c6be817cb1f37efc))
+- breaking change b2 ([dfa4a6d](https://github.com/cclap2020/my-app-semantic-release/commit/dfa4a6d34035dc1ad7143801c6be817cb1f37efc))
 
 ## [2.0.0-next.1](https://github.com/cclap2020/my-app-semantic-release/compare/v1.1.0-next.2...v2.0.0-next.1) (2023-09-19)
 
-
 ### ⚠ BREAKING CHANGES
 
-* test breaking change
+- test breaking change
 
 ### Features
 
-* test breaking change ([b15e545](https://github.com/cclap2020/my-app-semantic-release/commit/b15e5450b0a05f4a042c4f0cc73b0826a1b69cc8))
+- test breaking change ([b15e545](https://github.com/cclap2020/my-app-semantic-release/commit/b15e5450b0a05f4a042c4f0cc73b0826a1b69cc8))
 
 # [1.1.0-next.2](https://github.com/cclap2020/my-app-semantic-release/compare/v1.1.0-next.1...v1.1.0-next.2) (2023-09-19)
 
-
 ### Bug Fixes
 
-* test ([f491b1f](https://github.com/cclap2020/my-app-semantic-release/commit/f491b1fb44ff018ce4bdd2448e79f48946eee2b9))
+- test ([f491b1f](https://github.com/cclap2020/my-app-semantic-release/commit/f491b1fb44ff018ce4bdd2448e79f48946eee2b9))
 
 # [1.1.0-next.1](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.5...v1.1.0-next.1) (2023-09-19)
 
-
 ### Features
 
-* update ([22e6739](https://github.com/cclap2020/my-app-semantic-release/commit/22e67391aef478e0e7fb9e0c5877849a6802a5f8))
+- update ([22e6739](https://github.com/cclap2020/my-app-semantic-release/commit/22e67391aef478e0e7fb9e0c5877849a6802a5f8))
 
 ## [1.0.5](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.4...v1.0.5) (2023-09-19)
 
