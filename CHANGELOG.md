@@ -1,3 +1,10 @@
+# [1.1.0-next.2](https://github.com/cclap2020/my-app-semantic-release/compare/v1.1.0-next.1...v1.1.0-next.2) (2023-09-19)
+
+
+### Bug Fixes
+
+* test ([f491b1f](https://github.com/cclap2020/my-app-semantic-release/commit/f491b1fb44ff018ce4bdd2448e79f48946eee2b9))
+
 # [1.1.0-next.1](https://github.com/cclap2020/my-app-semantic-release/compare/v1.0.5...v1.1.0-next.1) (2023-09-19)
 
 
