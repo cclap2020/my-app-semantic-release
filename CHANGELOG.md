@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/cclap2020/my-app-semantic-release/compare/v2.0.1...v2.0.2) (2023-09-20)
+
+
+### Bug Fixes
+
+* update page.js ([#6](https://github.com/cclap2020/my-app-semantic-release/issues/6)) ([38add2e](https://github.com/cclap2020/my-app-semantic-release/commit/38add2eb1a805de639f285ce6805a95fd4a9d708))
+
 ## [2.0.1](https://github.com/cclap2020/my-app-semantic-release/compare/v2.0.0...v2.0.1) (2023-09-19)
 
 
